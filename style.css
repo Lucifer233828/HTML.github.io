@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    /*header*/
+.header{
+    text-align: center; 
+}
+.price{
+    padding: 20px;
+    position: absolute;
+    left: 70px;
+}
+.invoice{
+    padding: 20px;
+    position: absolute;
+    left: 720px;
+}
+.time{
+    padding: 20px;
+    position: absolute;
+    right: 70px;
+}
+.border{
+    border-bottom:4px solid gray ;
+    width: 1350px;
+    margin: auto;
+}
+.table{
+    position: absolute;
+    top: 170px;
+    left: 93px;
+}
+.text{
+    border-collapse: collapse;
+    width: 1350px;
+}
+.a ,.c{
+    text-align: center;
+}
+.b{
+    text-align: left;
+    font-family: khmer Os Battambang;
+}
+.d,.e{
+    text-align: right;
+}
+th ,td{
+    border: 2px solid;
+}
+.ba{
+    position: absolute;
+    top: 430px;
+    left: 640px;
+}
+.num{
+    position: absolute;
+    bottom: 12px;
+    left: 130px;
+}
+.poin{
+    position: absolute;
+    bottom: 100px;
+    left: 150px;
+}
+.le{
+    position: absolute;
+    bottom: 80px;
+    left: 168px;
+    font-size: 20px;
+}
+.cutom{
+    position: absolute;
+    bottom: 60px;
+    left: 130px;
+}
+.cam{
+    position: absolute;
+    bottom: 100px;
+    right: 150px;
+}
+.buy{
+    position: absolute;
+    bottom: 80px;
+    right: 168px;
+    font-size: 20px;
+}
+.sell{
+    position: absolute;
+    bottom: 60px;
+    right: 130px;
+}
+
+
+
